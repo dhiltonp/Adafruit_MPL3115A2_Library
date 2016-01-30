@@ -21,7 +21,7 @@ To download. click the ZIP button in the top-middle navbar,
 rename the uncompressed folder Adafruit_MPL3115A2. 
 Check that the Adafruit_MPL3115A2 folder contains Adafruit_MPL3115A2.cpp and Adafruit_MPL3115A2.h
 
-Place the Adafruit_AM2315 library folder your arduinosketchfolder/libraries/ folder. 
+Place the Adafruit_MPL3115A2 library folder your arduinosketchfolder/libraries/ folder. 
 You may need to create the libraries subfolder if its your first library. Restart the IDE.
 
 We also have a great tutorial on Arduino library installation at:
